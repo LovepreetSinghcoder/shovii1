@@ -1,0 +1,23 @@
+.bottomContainer {
+    background-color: rgb(148, 148, 148);
+    padding: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.bottomtitle h2{
+    font-weight: bold;
+}
+/* .bottomcard{
+   
+} */
+/* .cardline {
+    height: 22px;
+    padding: 0 10px;
+    background-color: green;
+} */
+/* .cardd {
+    
+} */
+span {
+    color: rgb(0, 0, 0);
+    font-size: 19px;
+}

@@ -1,0 +1,92 @@
+.contentcontainer {
+    width: 100%;
+    padding:  50px 0;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.contentcontainerinner {
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+/* NEW CSS  */
+
+.container1 {
+    width: 50%;
+    /* background-color: green; */
+    padding: 10px;
+    
+}
+.contentcontheading{
+    
+    color: black;
+    font-weight: bold;
+    background-color: #00e48a;
+    width: 30%;
+    padding: 10px 0 ;
+    border-radius: 30px;
+}
+.contentcontheading span {
+    font-size: 30px;
+}
+
+.container1inner {
+    /* background-color: blue; */
+    /* padding: 10px; */
+    border: 2.5px solid rgb(0, 0, 0);
+    border-radius: 9px;
+    margin: 20px 0;
+
+
+}
+
+.cCard {
+    background-color: #ecfff9;
+    display: flex;
+    flex-direction: row;
+}
+
+.containerImg {
+    /* background-color: aqua; */
+    width: 50%;
+}
+.containerImg img{
+    width: 100%;
+    background-size: cover;
+}
+
+.container1textarea {
+    /* border: 2px solid yellow; */
+    width: 59%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px;
+}
+.containerFoodName {
+    font-size: 23px;
+    font-weight: bold;
+}
+.containerFoodRestro{
+    font-size: 18px;
+    /* font-weight: bold; */
+}
+.containerbuyingFood {
+    background-color: #00e48a;
+    border-radius: 5px solid #00e48a;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+.btn {
+    font-size: 20px;
+    font-weight: 500;
+    
+}
